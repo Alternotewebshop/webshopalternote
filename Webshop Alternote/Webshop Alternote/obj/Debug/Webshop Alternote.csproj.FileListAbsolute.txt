@@ -1,0 +1,177 @@
+F:\Bureaublad\Webshop Alternote\Webshop Alternote\bin\roslyn\csc.exe
+F:\Bureaublad\Webshop Alternote\Webshop Alternote\bin\roslyn\csc.exe.config
+F:\Bureaublad\Webshop Alternote\Webshop Alternote\bin\roslyn\csc.rsp
+F:\Bureaublad\Webshop Alternote\Webshop Alternote\bin\roslyn\csi.exe
+F:\Bureaublad\Webshop Alternote\Webshop Alternote\bin\roslyn\csi.exe.config
+F:\Bureaublad\Webshop Alternote\Webshop Alternote\bin\roslyn\csi.rsp
+F:\Bureaublad\Webshop Alternote\Webshop Alternote\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Bureaublad\Webshop Alternote\Webshop Alternote\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Bureaublad\Webshop Alternote\Webshop Alternote\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Bureaublad\Webshop Alternote\Webshop Alternote\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Bureaublad\Webshop Alternote\Webshop Alternote\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Bureaublad\Webshop Alternote\Webshop Alternote\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Bureaublad\Webshop Alternote\Webshop Alternote\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Bureaublad\Webshop Alternote\Webshop Alternote\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Bureaublad\Webshop Alternote\Webshop Alternote\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Bureaublad\Webshop Alternote\Webshop Alternote\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Bureaublad\Webshop Alternote\Webshop Alternote\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Bureaublad\Webshop Alternote\Webshop Alternote\bin\roslyn\System.AppContext.dll
+F:\Bureaublad\Webshop Alternote\Webshop Alternote\bin\roslyn\System.Collections.Immutable.dll
+F:\Bureaublad\Webshop Alternote\Webshop Alternote\bin\roslyn\System.Console.dll
+F:\Bureaublad\Webshop Alternote\Webshop Alternote\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Bureaublad\Webshop Alternote\Webshop Alternote\bin\roslyn\System.Diagnostics.Process.dll
+F:\Bureaublad\Webshop Alternote\Webshop Alternote\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Bureaublad\Webshop Alternote\Webshop Alternote\bin\roslyn\System.IO.Compression.dll
+F:\Bureaublad\Webshop Alternote\Webshop Alternote\bin\roslyn\System.IO.FileSystem.dll
+F:\Bureaublad\Webshop Alternote\Webshop Alternote\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+F:\Bureaublad\Webshop Alternote\Webshop Alternote\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Bureaublad\Webshop Alternote\Webshop Alternote\bin\roslyn\System.IO.Pipes.dll
+F:\Bureaublad\Webshop Alternote\Webshop Alternote\bin\roslyn\System.Reflection.Metadata.dll
+F:\Bureaublad\Webshop Alternote\Webshop Alternote\bin\roslyn\System.Security.AccessControl.dll
+F:\Bureaublad\Webshop Alternote\Webshop Alternote\bin\roslyn\System.Security.Claims.dll
+F:\Bureaublad\Webshop Alternote\Webshop Alternote\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Bureaublad\Webshop Alternote\Webshop Alternote\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Bureaublad\Webshop Alternote\Webshop Alternote\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Bureaublad\Webshop Alternote\Webshop Alternote\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Bureaublad\Webshop Alternote\Webshop Alternote\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Bureaublad\Webshop Alternote\Webshop Alternote\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Bureaublad\Webshop Alternote\Webshop Alternote\bin\roslyn\System.Threading.Thread.dll
+F:\Bureaublad\Webshop Alternote\Webshop Alternote\bin\roslyn\System.ValueTuple.dll
+F:\Bureaublad\Webshop Alternote\Webshop Alternote\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Bureaublad\Webshop Alternote\Webshop Alternote\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Bureaublad\Webshop Alternote\Webshop Alternote\bin\roslyn\System.Xml.XPath.dll
+F:\Bureaublad\Webshop Alternote\Webshop Alternote\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Bureaublad\Webshop Alternote\Webshop Alternote\bin\roslyn\vbc.exe
+F:\Bureaublad\Webshop Alternote\Webshop Alternote\bin\roslyn\vbc.exe.config
+F:\Bureaublad\Webshop Alternote\Webshop Alternote\bin\roslyn\vbc.rsp
+F:\Bureaublad\Webshop Alternote\Webshop Alternote\bin\roslyn\VBCSCompiler.exe
+F:\Bureaublad\Webshop Alternote\Webshop Alternote\bin\roslyn\VBCSCompiler.exe.config
+F:\Bureaublad\Webshop Alternote\Webshop Alternote\bin\Webshop Alternote.dll.config
+F:\Bureaublad\Webshop Alternote\Webshop Alternote\bin\Webshop Alternote.dll
+F:\Bureaublad\Webshop Alternote\Webshop Alternote\bin\Webshop Alternote.pdb
+F:\Bureaublad\Webshop Alternote\Webshop Alternote\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Bureaublad\Webshop Alternote\Webshop Alternote\bin\MySql.Data.dll
+F:\Bureaublad\Webshop Alternote\Webshop Alternote\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Bureaublad\Webshop Alternote\Webshop Alternote\bin\MySql.Data.xml
+F:\Bureaublad\Webshop Alternote\Webshop Alternote\obj\Debug\Webshop Alternote.csprojResolveAssemblyReference.cache
+F:\Bureaublad\Webshop Alternote\Webshop Alternote\obj\Debug\Webshop Alternote.csproj.CoreCompileInputs.cache
+F:\Bureaublad\Webshop Alternote\Webshop Alternote\obj\Debug\Webshop Alternote.dll
+F:\Bureaublad\Webshop Alternote\Webshop Alternote\obj\Debug\Webshop Alternote.pdb
+C:\Users\leerling\Desktop\Webshop Alternote\Webshop Alternote\bin\roslyn\csc.exe
+C:\Users\leerling\Desktop\Webshop Alternote\Webshop Alternote\bin\roslyn\csc.exe.config
+C:\Users\leerling\Desktop\Webshop Alternote\Webshop Alternote\bin\roslyn\csc.rsp
+C:\Users\leerling\Desktop\Webshop Alternote\Webshop Alternote\bin\roslyn\csi.exe
+C:\Users\leerling\Desktop\Webshop Alternote\Webshop Alternote\bin\roslyn\csi.exe.config
+C:\Users\leerling\Desktop\Webshop Alternote\Webshop Alternote\bin\roslyn\csi.rsp
+C:\Users\leerling\Desktop\Webshop Alternote\Webshop Alternote\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\leerling\Desktop\Webshop Alternote\Webshop Alternote\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\leerling\Desktop\Webshop Alternote\Webshop Alternote\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\leerling\Desktop\Webshop Alternote\Webshop Alternote\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\leerling\Desktop\Webshop Alternote\Webshop Alternote\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\leerling\Desktop\Webshop Alternote\Webshop Alternote\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\leerling\Desktop\Webshop Alternote\Webshop Alternote\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\leerling\Desktop\Webshop Alternote\Webshop Alternote\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\leerling\Desktop\Webshop Alternote\Webshop Alternote\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\leerling\Desktop\Webshop Alternote\Webshop Alternote\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\leerling\Desktop\Webshop Alternote\Webshop Alternote\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\leerling\Desktop\Webshop Alternote\Webshop Alternote\bin\roslyn\System.AppContext.dll
+C:\Users\leerling\Desktop\Webshop Alternote\Webshop Alternote\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\leerling\Desktop\Webshop Alternote\Webshop Alternote\bin\roslyn\System.Console.dll
+C:\Users\leerling\Desktop\Webshop Alternote\Webshop Alternote\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\leerling\Desktop\Webshop Alternote\Webshop Alternote\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\leerling\Desktop\Webshop Alternote\Webshop Alternote\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\leerling\Desktop\Webshop Alternote\Webshop Alternote\bin\roslyn\System.IO.Compression.dll
+C:\Users\leerling\Desktop\Webshop Alternote\Webshop Alternote\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\leerling\Desktop\Webshop Alternote\Webshop Alternote\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\leerling\Desktop\Webshop Alternote\Webshop Alternote\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\leerling\Desktop\Webshop Alternote\Webshop Alternote\bin\roslyn\System.IO.Pipes.dll
+C:\Users\leerling\Desktop\Webshop Alternote\Webshop Alternote\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\leerling\Desktop\Webshop Alternote\Webshop Alternote\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\leerling\Desktop\Webshop Alternote\Webshop Alternote\bin\roslyn\System.Security.Claims.dll
+C:\Users\leerling\Desktop\Webshop Alternote\Webshop Alternote\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\leerling\Desktop\Webshop Alternote\Webshop Alternote\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\leerling\Desktop\Webshop Alternote\Webshop Alternote\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\leerling\Desktop\Webshop Alternote\Webshop Alternote\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\leerling\Desktop\Webshop Alternote\Webshop Alternote\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\leerling\Desktop\Webshop Alternote\Webshop Alternote\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\leerling\Desktop\Webshop Alternote\Webshop Alternote\bin\roslyn\System.Threading.Thread.dll
+C:\Users\leerling\Desktop\Webshop Alternote\Webshop Alternote\bin\roslyn\System.ValueTuple.dll
+C:\Users\leerling\Desktop\Webshop Alternote\Webshop Alternote\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\leerling\Desktop\Webshop Alternote\Webshop Alternote\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\leerling\Desktop\Webshop Alternote\Webshop Alternote\bin\roslyn\System.Xml.XPath.dll
+C:\Users\leerling\Desktop\Webshop Alternote\Webshop Alternote\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\leerling\Desktop\Webshop Alternote\Webshop Alternote\bin\roslyn\vbc.exe
+C:\Users\leerling\Desktop\Webshop Alternote\Webshop Alternote\bin\roslyn\vbc.exe.config
+C:\Users\leerling\Desktop\Webshop Alternote\Webshop Alternote\bin\roslyn\vbc.rsp
+C:\Users\leerling\Desktop\Webshop Alternote\Webshop Alternote\bin\roslyn\VBCSCompiler.exe
+C:\Users\leerling\Desktop\Webshop Alternote\Webshop Alternote\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\leerling\Desktop\Webshop Alternote\Webshop Alternote\bin\Webshop Alternote.dll.config
+C:\Users\leerling\Desktop\Webshop Alternote\Webshop Alternote\bin\Webshop Alternote.dll
+C:\Users\leerling\Desktop\Webshop Alternote\Webshop Alternote\bin\Webshop Alternote.pdb
+C:\Users\leerling\Desktop\Webshop Alternote\Webshop Alternote\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\leerling\Desktop\Webshop Alternote\Webshop Alternote\bin\MySql.Data.dll
+C:\Users\leerling\Desktop\Webshop Alternote\Webshop Alternote\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\leerling\Desktop\Webshop Alternote\Webshop Alternote\bin\MySql.Data.xml
+C:\Users\leerling\Desktop\Webshop Alternote\Webshop Alternote\obj\Debug\Webshop Alternote.csprojResolveAssemblyReference.cache
+C:\Users\leerling\Desktop\Webshop Alternote\Webshop Alternote\obj\Debug\Webshop Alternote.csproj.CoreCompileInputs.cache
+C:\Users\leerling\Desktop\Webshop Alternote\Webshop Alternote\obj\Debug\Webshop Alternote.dll
+C:\Users\leerling\Desktop\Webshop Alternote\Webshop Alternote\obj\Debug\Webshop Alternote.pdb
+D:\Webshop Alternote\Webshop Alternote\bin\roslyn\csc.exe
+D:\Webshop Alternote\Webshop Alternote\bin\roslyn\csc.exe.config
+D:\Webshop Alternote\Webshop Alternote\bin\roslyn\csc.rsp
+D:\Webshop Alternote\Webshop Alternote\bin\roslyn\csi.exe
+D:\Webshop Alternote\Webshop Alternote\bin\roslyn\csi.exe.config
+D:\Webshop Alternote\Webshop Alternote\bin\roslyn\csi.rsp
+D:\Webshop Alternote\Webshop Alternote\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Webshop Alternote\Webshop Alternote\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Webshop Alternote\Webshop Alternote\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Webshop Alternote\Webshop Alternote\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Webshop Alternote\Webshop Alternote\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Webshop Alternote\Webshop Alternote\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Webshop Alternote\Webshop Alternote\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Webshop Alternote\Webshop Alternote\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Webshop Alternote\Webshop Alternote\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Webshop Alternote\Webshop Alternote\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Webshop Alternote\Webshop Alternote\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Webshop Alternote\Webshop Alternote\bin\roslyn\System.AppContext.dll
+D:\Webshop Alternote\Webshop Alternote\bin\roslyn\System.Collections.Immutable.dll
+D:\Webshop Alternote\Webshop Alternote\bin\roslyn\System.Console.dll
+D:\Webshop Alternote\Webshop Alternote\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Webshop Alternote\Webshop Alternote\bin\roslyn\System.Diagnostics.Process.dll
+D:\Webshop Alternote\Webshop Alternote\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Webshop Alternote\Webshop Alternote\bin\roslyn\System.IO.Compression.dll
+D:\Webshop Alternote\Webshop Alternote\bin\roslyn\System.IO.FileSystem.dll
+D:\Webshop Alternote\Webshop Alternote\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Webshop Alternote\Webshop Alternote\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Webshop Alternote\Webshop Alternote\bin\roslyn\System.IO.Pipes.dll
+D:\Webshop Alternote\Webshop Alternote\bin\roslyn\System.Reflection.Metadata.dll
+D:\Webshop Alternote\Webshop Alternote\bin\roslyn\System.Security.AccessControl.dll
+D:\Webshop Alternote\Webshop Alternote\bin\roslyn\System.Security.Claims.dll
+D:\Webshop Alternote\Webshop Alternote\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Webshop Alternote\Webshop Alternote\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Webshop Alternote\Webshop Alternote\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Webshop Alternote\Webshop Alternote\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Webshop Alternote\Webshop Alternote\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Webshop Alternote\Webshop Alternote\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Webshop Alternote\Webshop Alternote\bin\roslyn\System.Threading.Thread.dll
+D:\Webshop Alternote\Webshop Alternote\bin\roslyn\System.ValueTuple.dll
+D:\Webshop Alternote\Webshop Alternote\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Webshop Alternote\Webshop Alternote\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Webshop Alternote\Webshop Alternote\bin\roslyn\System.Xml.XPath.dll
+D:\Webshop Alternote\Webshop Alternote\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Webshop Alternote\Webshop Alternote\bin\roslyn\vbc.exe
+D:\Webshop Alternote\Webshop Alternote\bin\roslyn\vbc.exe.config
+D:\Webshop Alternote\Webshop Alternote\bin\roslyn\vbc.rsp
+D:\Webshop Alternote\Webshop Alternote\bin\roslyn\VBCSCompiler.exe
+D:\Webshop Alternote\Webshop Alternote\bin\roslyn\VBCSCompiler.exe.config
+D:\Webshop Alternote\Webshop Alternote\bin\Webshop Alternote.dll.config
+D:\Webshop Alternote\Webshop Alternote\bin\Webshop Alternote.dll
+D:\Webshop Alternote\Webshop Alternote\bin\Webshop Alternote.pdb
+D:\Webshop Alternote\Webshop Alternote\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Webshop Alternote\Webshop Alternote\bin\MySql.Data.dll
+D:\Webshop Alternote\Webshop Alternote\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Webshop Alternote\Webshop Alternote\bin\MySql.Data.xml
+D:\Webshop Alternote\Webshop Alternote\obj\Debug\Webshop Alternote.csprojResolveAssemblyReference.cache
+D:\Webshop Alternote\Webshop Alternote\obj\Debug\Webshop Alternote.csproj.CoreCompileInputs.cache
+D:\Webshop Alternote\Webshop Alternote\obj\Debug\Webshop Alternote.dll
+D:\Webshop Alternote\Webshop Alternote\obj\Debug\Webshop Alternote.pdb
